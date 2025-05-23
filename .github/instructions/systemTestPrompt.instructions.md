@@ -21,4 +21,4 @@ description: |
   3. Open the Everfit application
   4. Execute all the steps in the test case manually
   5. You must run all the steps in the test case before move to the final step.
-  6. Update the result of the last step in the ./result folder by create new result file follow template of /Users/namtran/Desktop/mcp/results/firstResult.json
+  6. Update the result of the last step in the ./result folder by create new result file follow template of /Users/namtran/Desktop/mcp/results/{date_time}firstResult.json

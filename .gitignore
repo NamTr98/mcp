@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+
+# Results
+results/
+
+# Images
+img/
+
+# Test output
+coverage/
+
+# VSCode
+.vscode/
+
+# Env files
+.env
+.env.*
+
+# Others
+*.swp
+*.swo
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore test artifacts
+tests/e2e/*.log
